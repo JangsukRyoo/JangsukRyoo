@@ -3,7 +3,7 @@
 Hello! I'm Jangsuk Ryoo, I am backend web developer.
 
 Tech Stack
-Java, JavaScript, Css, SpringBoot, Oracle, MariaDB, MsSql, Vue2, JPA, Docker, ElasticSearch
+Java, JavaScript, Css, SpringBoot, Oracle, MariaDB, MsSql, Vue2.0, JPA, Docker
 
 
 <!--
