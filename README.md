@@ -4,7 +4,7 @@ Hello! I'm Jangsuk Ryoo, I am backend web developer.
 
 Tech Stack
 
-Language : Java 8, Vue, JavaScript, Ibatis, JPA, SpringBoot, SpringFrameWork
+Language : Java 8, Vue, JavaScript, Ibatis, JPA, SpringBoot, SpringFrameWork <br>
 DB: Oracle, MySql, MariaDB Java, JavaScript
 
 
