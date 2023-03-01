@@ -1,11 +1,11 @@
 ### Hi there 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JSR Girhub&fontSize=90" />
 
-Hello! I'm Jangsuk Ryoo, I am backend web developer.
+👋 Hello! I'm Jangsuk Ryoo.
+    I am backend web developer.
 
 Tech Stack <br>
 
-SKILL
+💪🏼  ## SKILLs
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 
