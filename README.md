@@ -1,6 +1,7 @@
 
 ### 👋 Hello! I'm Jangsuk Ryoo.
 #### I am backend web developer.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangsukRyoo&show_icons=true&theme=tokyonight)
 
 ## 🛠️ Stacks
 #### Platforms & Languages
@@ -21,4 +22,3 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=latte)](https://solved.ac/latte/)  
 
-(https://github-readme-stats.vercel.app/api?username=JangsukRyoo &show_icons=true&theme=tokyonight)
