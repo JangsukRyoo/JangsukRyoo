@@ -1,8 +1,7 @@
 
 ### 👋 Hello! I'm Jangsuk Ryoo.
 #### I am backend web developer.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangsukRyoo&show_icons=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangsukRyoo&theme=vue&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangsukRyoo&langs_count=8&layout=compact&theme=vue)
 
 ## 🛠️ Stacks
 #### Platforms & Languages
