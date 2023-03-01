@@ -1,6 +1,6 @@
 
 ### 👋 Hello! I'm Jangsuk Ryoo.
-    I am backend web developer.
+#### I am backend web developer.
 
 ## 🛠️ Stacks
 #### Platforms & Languages
