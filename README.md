@@ -19,6 +19,5 @@
 
 
 ### 🏅 Algorithm Gold Level
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=latte)](https://solved.ac/latte/)  
 
