@@ -1,7 +1,7 @@
 
 ### 👋 Hello! 
 ### I'm Jangsuk Ryoo. I'm Backend Developer.
-#### I mainly use Java 8
+#### I mainly use Java 8 and Vue 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangsukRyoo&theme=vue&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangsukRyoo&langs_count=8&layout=compact&theme=vue)
 
 ## 🛠️ Stacks
